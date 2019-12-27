@@ -1439,15 +1439,12 @@ p {
   .footer-area::before {
     position: absolute;
     content: '';
-    background-image: url(../images/footer-shape.png);
     background-position: center top;
     background-size: cover;
     width: 100%;
     height: 100%;
     top: 0;
     left: 0; }
-  .footer-area.footer-red::before {
-    background-image: url(../images/footer-shape-2.png); }
 
 .footer-widget {
   padding-bottom: 73px;
