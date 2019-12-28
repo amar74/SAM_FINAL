@@ -80,7 +80,8 @@ p {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  width: 100%;
+  width: 
+    0%;
   height: 100%; }
 
 /*===== All Button Style =====*/
@@ -2040,7 +2041,7 @@ p {
   border-radius: 5px;
   -webkit-box-shadow: 0px 0px 0px 10px rgb(42, 188, 175);
   -moz-box-shadow: 0px 0px 0px 10px rgba(0, 149, 54, 0.5);
-  box-shadow: 0px 0px 0px 10px rgb(36, 188, 176); }
+  box-shadow: 0px 0px 0px 5px rgb(36, 188, 176); }
 
 .single-form > p {
   text-transform: uppercase; }
